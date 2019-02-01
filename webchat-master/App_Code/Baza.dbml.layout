@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Baza">
+  <DataContextMoniker Name="/BazaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="709af2d8-7a6e-4348-b575-fab05295bcc0" absoluteBounds="5.5, 0.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/BazaDataContext/Chatbox" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6e5ef545-4d87-4201-bfc4-628f245d263d" absoluteBounds="5.515, 0.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5444db5e-18e6-47d6-bb00-0c52b66ae152" absoluteBounds="0.625, 0.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BazaDataContext/User1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="488b0e7f-5efa-47c4-ac39-f03e86d7daea" absoluteBounds="0.64000000000000012, 1.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d850f4d2-13f6-4a40-a960-b61dfd50eef6" absoluteBounds="3.25, 1.375, 2, 2.5401025390625">
+      <DataClassMoniker Name="/BazaDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2d9ba1e8-7ad9-42f7-98b4-be75cc700e99" absoluteBounds="3.265, 1.835, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
